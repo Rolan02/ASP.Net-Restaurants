@@ -1,0 +1,12 @@
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
