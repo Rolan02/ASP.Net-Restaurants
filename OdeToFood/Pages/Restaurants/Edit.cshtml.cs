@@ -35,11 +35,15 @@ namespace OdeToFood.Pages.Restaurants
             }
             return Page();
         }
-        public IActionResult onPost()
+        public IActionResult OnPost()
         {
+            if (ModelState.IsValid) 
+            { 
+                restaurantData.Updated(Restaurant);
+                restaurantData.Commit();
+                return RedirectToPage("./Detail" , new { restaurantId = Restaurant.Id});
+            }
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
-            restaurantData.Updated(Restaurant);
-            restaurantData.Commit();
             return Page();
         }
 
