@@ -8,3 +8,13 @@ C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFo
 C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Users\Rolando\Downloads\aspnet-core-fundamentals\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\Rolando\source\repos\Restaurants\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
